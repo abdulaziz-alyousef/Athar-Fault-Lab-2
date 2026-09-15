@@ -1,0 +1,11 @@
+build/
+build-*/
+dist/
+package-*/
+Athar-Fault-Lab-2-v2.0-Windows-x86/
+Athar-Fault-Lab-2-v2.0-Windows-x64/
+.vscode/
+*.zip
+*.user
+*.autosave
+data/*.db
