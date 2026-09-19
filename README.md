@@ -535,8 +535,6 @@ Athar Fault Lab 2 هو برنامج محاكاة محلي فقط.
 
 - Windows x64
 - Windows x86
-- العربية
-- English
 - Dark Theme
 - Light Theme
 
@@ -1063,8 +1061,6 @@ Supports:
 
 - Windows x64
 - Windows x86
-- Arabic
-- English
 - Dark Theme
 - Light Theme
 
